@@ -1,12 +1,13 @@
 # CSP3Adv
 code for Collaborative Face Privacy Protection Method Based On Adversarial Examples In Social Platforms  
 
-# datasets:  
+# datasets: 
 lfw:http://vis-www.cs.umass.edu/lfw/lfw.tgz  
 calfw:https://pan.baidu.com/s/1ge6wFuV#list/path=%2F  
 cplfw:https://pan.baidu.com/s/1i6iHztN#list/path=%2F  
 agedb:https://www.dropbox.com/s/mkjsyqytd5lcai9/AgeDB.zip?dl=0  
-cfp-fp:to do
+# bin file for test:  
+{Lfw,Calfw,Cplfw,Agedb_30,CFP-FP}链接: https://pan.baidu.com/s/1OrdtgcQMfKv-t84czr1UPA 提取码: da7e
 
 # Running Environment:
 
